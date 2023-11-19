@@ -1,0 +1,4 @@
+/home/ycy/.cache/JetBrains/RemoteDev/dist/aa340ce67cce3_CLion-233.11799.37/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/ycy/.cache/JetBrains/RemoteDev/dist/aa340ce67cce3_CLion-233.11799.37/bin/ninja/linux/x64/ninja -G Ninja -S /home/ycy/repo/lua-5.3.6 -B /home/ycy/repo/lua-5.3.6/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/ycy/repo/lua-5.3.6/cmake-build-debug

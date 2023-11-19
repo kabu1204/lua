@@ -1,0 +1,5 @@
+/home/ycy/repo/lua-5.3.6/cmake-build-debug/CMakeFiles/lua.dir
+/home/ycy/repo/lua-5.3.6/cmake-build-debug/CMakeFiles/luacli.dir
+/home/ycy/repo/lua-5.3.6/cmake-build-debug/CMakeFiles/luac.dir
+/home/ycy/repo/lua-5.3.6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ycy/repo/lua-5.3.6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+cmake-build-debug/
+cmake-build-release/
+cmake-build-relwithdbg/
+
+build/
+
+*.o
+*.a
+lua
+luac
